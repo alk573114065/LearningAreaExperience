@@ -60,7 +60,8 @@ Grid系統是超龐大並很好使用在一個大框架架構設計排版，並�
 參考影片:
 [Learn Auto-fill & Auto-fit in five minutes! CSS Grid! no media queries!](https://www.youtube.com/watch?v=QO-vcJFRgOg)
 
-對於Grid排版算是初體驗，所以有找相關的文章技術不斷的複習，  
+對於Grid排版算是初體驗，所以有找相關的文章技術不斷的複習  
+
 參考文章: 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
